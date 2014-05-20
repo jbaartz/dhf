@@ -1,0 +1,7 @@
+# ColdFusion directories
+CFIDE/
+WEB-INF/
+crossdomain.xml
+
+# Temporary directories
+_*/
