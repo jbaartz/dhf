@@ -5,3 +5,8 @@ The goal of this project is to make it easier for my wife to sell everything in 
 ## Known Issues
 
 * It doesn't work
+
+### Authors
+
+* Joe Rybacek
+* Jesse Baartz
